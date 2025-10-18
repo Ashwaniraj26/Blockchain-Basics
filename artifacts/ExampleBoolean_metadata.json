@@ -47,7 +47,7 @@
 		"compilationTarget": {
 			"contracts/ExampleBoolean.sol": "ExampleBoolean"
 		},
-		"evmVersion": "london",
+		"evmVersion": "prague",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
