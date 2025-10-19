@@ -79,7 +79,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/SampleFallabck.sol": "SampleFallback"
+			"contracts/12-SampleFallabck.sol": "SampleFallback"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -93,7 +93,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/SampleFallabck.sol": {
+		"contracts/12-SampleFallabck.sol": {
 			"keccak256": "0xec054f8a1cea6e6bbdc1e5daeb2ce620960132fb67ea63e1729dfb6e68624cf4",
 			"license": "MIT",
 			"urls": [

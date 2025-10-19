@@ -58,7 +58,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleAddress.sol": "ExampleAddress"
+			"contracts/6-ExampleAddress.sol": "ExampleAddress"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -72,7 +72,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleAddress.sol": {
+		"contracts/6-ExampleAddress.sol": {
 			"keccak256": "0xae031dc0d2ec96623934ff0efa3e6272a5f4b6de10df410c3bdce442698e5f2a",
 			"license": "MIT",
 			"urls": [

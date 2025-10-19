@@ -71,7 +71,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleMapping2.sol": "ExampleMappingWidhdrawals"
+			"contracts/14-ExampleMapping2.sol": "ExampleMappingWidhdrawals"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -85,7 +85,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleMapping2.sol": {
+		"contracts/14-ExampleMapping2.sol": {
 			"keccak256": "0x0d06c3c5addfbc737d183b26e0d43ec259536f7ac3877eddb087f077fa64c358",
 			"license": "MIT",
 			"urls": [

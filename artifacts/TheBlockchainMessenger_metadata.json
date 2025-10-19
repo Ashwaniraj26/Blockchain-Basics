@@ -76,7 +76,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/The BlockchainMessenger.sol": "TheBlockchainMessenger"
+			"contracts/10-TheBlockchainMessenger.sol": "TheBlockchainMessenger"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -90,7 +90,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/The BlockchainMessenger.sol": {
+		"contracts/10-TheBlockchainMessenger.sol": {
 			"keccak256": "0x2d85d116cdc64fe172a9ed81a8220e051a2431de27b0b3a45aa9c935b7f75d9a",
 			"license": "MIT",
 			"urls": [

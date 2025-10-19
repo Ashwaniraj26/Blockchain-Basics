@@ -61,7 +61,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleStruct.sol": "PaymentRecieved"
+			"contracts/15-ExampleStruct.sol": "PaymentRecieved"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -75,7 +75,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleStruct.sol": {
+		"contracts/15-ExampleStruct.sol": {
 			"keccak256": "0x2c89da65d1e5c8777681d2f5a321958d322ba66c8fb58ddb7f5a14a41786ef11",
 			"license": "MIT",
 			"urls": [

@@ -88,7 +88,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleViewPure.sol": "ExampleViewPure"
+			"contracts/8-ExampleViewPure.sol": "ExampleViewPure"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -102,7 +102,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleViewPure.sol": {
+		"contracts/8-ExampleViewPure.sol": {
 			"keccak256": "0x314d9479c525d71df7aa238804fbae6e821af6bb458e308b7b3a3808762dbf09",
 			"license": "MIT",
 			"urls": [

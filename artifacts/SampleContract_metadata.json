@@ -63,7 +63,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/SampleContract.sol": "SampleContract"
+			"contracts/11-SampleContract.sol": "SampleContract"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -77,7 +77,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/SampleContract.sol": {
+		"contracts/11-SampleContract.sol": {
 			"keccak256": "0x5cb4972124e4f8e2c6d03d7f06f1ffba1ce8b4eabd4f2960005738d73fd727f6",
 			"license": "MIT",
 			"urls": [
