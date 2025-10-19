@@ -1,0 +1,63 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "balance",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"stateMutability": "payable",
+				"type": "receive"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/19-ExampleSendTransfer.sol": "RecieverNoAction"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/19-ExampleSendTransfer.sol": {
+			"keccak256": "0xc151507d41b2a4d9ed9ad248bde6e359c47f889f737e5b1ae36979f144782e35",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://5b4a59ba1226212a503999bd844f5ac9738d950c87d3b7c138df26dfd7602b9c",
+				"dweb:/ipfs/QmS7JmaR8xikjQ6AJ8VYFgEmLwP95FsnanFSFPbCCcq2ya"
+			]
+		}
+	},
+	"version": 1
+}
